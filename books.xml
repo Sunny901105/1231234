@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>靜靜是好女孩</heading>
+<book>
+<title>靜靜努力向上</title>
+<author>靜靜本人</author>
+<publishe>靜靜出版社</publishe>
+</book>
+
+<book>
+<title>靜靜單身</title>
+<author>靜靜本人</author>
+<publishe>靜靜出版社</publishe>
+</book>
+</books>
